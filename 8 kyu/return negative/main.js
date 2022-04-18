@@ -1,0 +1,1 @@
+makeNegative = n => n < 0 ? n : n * -1
