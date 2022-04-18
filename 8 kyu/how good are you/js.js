@@ -1,0 +1,1 @@
+betterThanAverage = (arr, n) => (arr.concat(n).reduce((a, b) => a + b, 0) / arr.length) <= n ? true : false

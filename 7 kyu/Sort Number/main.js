@@ -1,0 +1,1 @@
+solution = n => n ? n.sort((x, y) => x - y) : []

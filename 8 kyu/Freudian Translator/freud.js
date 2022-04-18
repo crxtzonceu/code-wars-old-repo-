@@ -1,0 +1,1 @@
+toFreud = n => n ? n.split(" ").map(x => "sex").join(" ")
