@@ -1,0 +1,1 @@
+numberToString = n => `${n}`
