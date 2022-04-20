@@ -1,0 +1,1 @@
+const removeEveryOther = n => n.filter((_, x) => !(x % 2))
