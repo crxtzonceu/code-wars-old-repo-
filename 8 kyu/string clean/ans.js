@@ -1,0 +1,1 @@
+const stringClean = n => n.split('').filter(x => x != parseInt(x)).join('')
