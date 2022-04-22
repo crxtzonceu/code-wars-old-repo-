@@ -1,0 +1,1 @@
+const find_average = n => n.length > 0 ? n.reduce((a, b) => a + b) / n.length : 0
