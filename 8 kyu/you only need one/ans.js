@@ -1,0 +1,1 @@
+const check = (a, b) => a.includes(b) ? true : false
