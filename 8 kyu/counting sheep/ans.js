@@ -1,0 +1,1 @@
+const countSheeps = n => n.map(x => Boolean(x)).reduce((a, b) => a + b)
