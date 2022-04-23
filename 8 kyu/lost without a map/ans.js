@@ -1,0 +1,1 @@
+const maps = n => n.map(x => x * 2)
