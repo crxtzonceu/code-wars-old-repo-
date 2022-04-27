@@ -1,0 +1,1 @@
+const boolToWord = n => n ? "Yes" : "No"
